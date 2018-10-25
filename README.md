@@ -1,7 +1,7 @@
 # Harbour.Space University Big Data Course
 
 
-The Repository is the outcome from the [Text Mining and Translation](https://in.harbour.space/data-science/text-mining-and-translation-sergey-nikolenko/).
+The Repository is the result of the research done in the [Text Mining and Translation Course](https://in.harbour.space/data-science/text-mining-and-translation-sergey-nikolenko/).
 
   ### Professor:
   - **@Sergey Nikolenko** Chief Research Officer, Neuromation. Researcher, Laboratory of Mathematical Logic, Steklov Mathematical Institute at St.-Petersburg
